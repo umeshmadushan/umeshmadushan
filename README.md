@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshmadushan&label=Profile%20views&color=0e75b6&style=flat" alt="umeshmadushan" /> </p>
 
-- 🌱 I’m currently learning **react native,Laravel, springboot and angular.js**
+- 🌱 I’m currently learning **react native,Laravel, Flutter and angular.js**
 
 - 💬 Ask me about **react,java and node.js**
 
