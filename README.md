@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshmadushan&label=Profile%20views&color=0e75b6&style=flat" alt="umeshmadushan" /> </p>
 
-- 🌱 I’m currently learning **react native,Laravel, Flutter and angular.js**
+- 🌱 I’m currently learning **react native,Laravel and Flutter**
 
 - 💬 Ask me about **react,java and node.js**
 
 - 📫 How to reach me **umeshmadushan665@gmail.com**
 
-- ⚡Profile **I am a third-year undergraduate student studying software engineering with expertise with Java, PHP, and JavaScript technologies to develop and implement software and applications. I think of myself as a very devoted, diligent, self-assured, and honest person who can adapt to any situation and work effectively. I am open to new ideas, eager to pick up new skills, and ready to adapt. Although I like working in a team, I also enjoy working alone. I am certain that I would benefit the business I work for.**
+- ⚡Profile **I am a fourth-year undergraduate student studying software engineering with expertise with Java, PHP, and JavaScript technologies to develop and implement software and applications. I think of myself as a very devoted, diligent, self-assured, and honest person who can adapt to any situation and work effectively. I am open to new ideas, eager to pick up new skills, and ready to adapt. Although I like working in a team, I also enjoy working alone. I am certain that I would benefit the business I work for.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
