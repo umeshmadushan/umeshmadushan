@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshmadushan&label=Profile%20views&color=0e75b6&style=flat" alt="umeshmadushan" /> </p>
 
-- 🌱 I’m currently learning **react native,Laravel and Flutter**
+- 🌱 I’m currently learning **Laravel and Flutter**
 
-- 💬 Ask me about **react,java and node.js**
+- 💬 Ask me about **react,flutter and node.js**
 
 - 📫 How to reach me **umeshmadushan665@gmail.com**
 
