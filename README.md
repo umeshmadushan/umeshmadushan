@@ -53,7 +53,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin: 10px;"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.devonblog.com%2Fsoftware-development%2Ftailwind-css-a-utility-first-css-framework-for-rapidly-building-custom-designs%2F&psig=AOvVaw28Bkdo2IiXr0VuP75jkQG4&ust=1724701541780000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICWu430kIgDFQAAAAAdAAAAABAJ)](https://www.devonblog.com/wp-content/uploads/2022/06/tailwind-thumb.jpg" alt="tailwind" width="40" height="40" style="margin: 10px;"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.devonblog.com%2Fsoftware-development%2Ftailwind-css-a-utility-first-css-framework-for-rapidly-building-custom-designs%2F&psig=AOvVaw28Bkdo2IiXr0VuP75jkQG4&ust=1724701541780000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICWu430kIgDFQAAAAAdAAAAABAJ)](https://www.devonblog.com/wp-content/uploads/2022/06/tailwind-thumb.jpg](https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" alt="tailwind" width="40" height="40" style="margin: 10px;"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" style="margin: 10px;"/>
